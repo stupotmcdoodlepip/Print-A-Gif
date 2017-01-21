@@ -1,5 +1,6 @@
 # Print-A-Gif
 Turn any gif into a printable flip book!
+Demo: https://www.youtube.com/watch?v=roJq69vgE2U
 
 Program written in C# and uses ImageMagick for image processing.
 

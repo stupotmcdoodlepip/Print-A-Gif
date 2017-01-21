@@ -227,7 +227,7 @@ namespace PrintAGif
             DirectoryInfo di = new DirectoryInfo(outPath);
             foreach (FileInfo file in di.GetFiles())
             {
-                if(!file.Name.Contains("-frame"))
+                if((!file.Name.Contains("-frame") && file.Name.EndsWith(".png")) || file.Name == "output.pdf")
                     file.Delete();
             }
 

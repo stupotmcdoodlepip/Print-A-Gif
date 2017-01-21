@@ -3,6 +3,14 @@ Turn any gif into a printable flip book!
 
 Program written in C# and uses ImageMagick for image processing.
 
+<DISCLAIMER #1>
+This software probably harbours a few sins. I am not a professional programmer.
+There will certainly be things that can be optimised / factorised.
+I threw it together in an evening and it serves its purpose for me.
+Having said that, it works pretty well. Suggestions welcome.
+</DISCLAIMER #1>
+
+
 For portability, I used the ImageMagick static binary downloaded from
 https://www.imagemagick.org/download/binaries/ImageMagick-7.0.4-4-Q16-x64-static.exe
 

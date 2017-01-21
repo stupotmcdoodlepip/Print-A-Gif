@@ -23,6 +23,10 @@ Instructions for use:
 - For simplicity / housekeeping, I usually start by placing a gif in the 'input' directory. This is not strictly necessary, but it saves a few clicks later on as the default location for the OpenFileDialog is the input directory.
 
 - Fire up the program, select your gif and change the output directory if you wish. I usually just use the output folder. A separate folder will be created in here for all intermediate working files and the final generated PDF.
+*** VERY IMPORTANT NOTE ***
+Output directory will be emptied of any .png files upon pressing the 'Go' button
+Don't use any folder that you have precious .png files stored in!
+***************************
 
 - Use the Repeat X and Repeat Y controls to choose how the images are tiled. I've found that 2 frames wide works nicely, then fit as many as you can vertically. If the overall tile pattern exceeds the size of the 'paper', each frame will be scaled so that either the full height or the full width of the paper is utilised without changing the aspect ratio of the frame. The actual frame sizes will not be modified in the final output file, so no resolution is lost. You will need to scale to fit the page when printing.
 

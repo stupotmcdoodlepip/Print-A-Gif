@@ -39,11 +39,8 @@
 * 
 ***************************************************************************************/
 
-
-namespace PrintAGif
+partial class PrintGif
 {
-	partial class PrintGif
-	{
 		/// <summary>
 		/// Required designer variable.
 		/// </summary>
@@ -394,6 +391,4 @@ namespace PrintAGif
         private System.Windows.Forms.NumericUpDown nudCutSpacing;
 		private System.Windows.Forms.CheckBox chkUnoptimise;
         private System.Windows.Forms.TextBox textBox1;
-	}
 }
-

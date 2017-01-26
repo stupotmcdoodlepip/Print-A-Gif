@@ -1,7 +1,0 @@
-F:\Users\HTPC\Dropbox\Programming\Print-A-Gif\Print-A-Gif\obj\x86\Release\PrintAGif.PrintGif.resources
-F:\Users\HTPC\Dropbox\Programming\Print-A-Gif\Print-A-Gif\obj\x86\Release\Print-A-Gif.Properties.Resources.resources
-F:\Users\HTPC\Dropbox\Programming\Print-A-Gif\Print-A-Gif\obj\x86\Release\Print-A-Gif.csproj.GenerateResource.Cache
-F:\Users\HTPC\Dropbox\Programming\Print-A-Gif\Print-A-Gif\bin\Release\Print-A-Gif.exe
-F:\Users\HTPC\Dropbox\Programming\Print-A-Gif\Print-A-Gif\bin\Release\Print-A-Gif.pdb
-F:\Users\HTPC\Dropbox\Programming\Print-A-Gif\Print-A-Gif\obj\x86\Release\Print-A-Gif.exe
-F:\Users\HTPC\Dropbox\Programming\Print-A-Gif\Print-A-Gif\obj\x86\Release\Print-A-Gif.pdb
